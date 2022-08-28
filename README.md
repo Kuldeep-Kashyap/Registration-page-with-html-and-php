@@ -1,4 +1,5 @@
-# Registration-page-with-html-and-php
+# Registration-page-with-html-php-and-mySQL
+
 This is a website which registers the user and save the information in database using html and php 
 
 # Follow These Steps
